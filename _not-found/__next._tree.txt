@@ -1,0 +1,3 @@
+:HL["/Karibediseno/_next/static/chunks/0n4ichfvng1gg.css","style"]
+:HL["/Karibediseno/_next/static/chunks/06d5rs50stf_t.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"vqzFuRXkfETDpIgm09gge"}
